@@ -15,7 +15,7 @@ jobs:
     defaults:
       run:
         shell: bash
-        working-directory: ./M5-EC
+        working-directory: ./Eduardo-Barreto
     steps:
       - uses: actions/checkout@v4
         with:
